@@ -1,0 +1,14 @@
+{
+  "name": "404-catcher",
+  "version": "1.0.0",
+  "description": "Logs all requests and responds with a 404 error message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philipp Kueng <philipp@hofratsuess.ch>",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^8.4.0"
+  }
+}
